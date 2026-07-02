@@ -1,7 +1,7 @@
 <p align="center">
   <a href="https://rentry.co/F6031">RENTRY</a>
   &nbsp;💬&nbsp;
-  <a href="https://example.com">ATA</a>
+  <a href="https://t.me/stokchauzen">ART</a>
 </p>
 
 <p align="center">
